@@ -2,7 +2,7 @@
 このアプリはAppStoreで入手したアプリと違い、自動で最新バージョンへのアップデートはされません。\
 定期的にこのサイトを訪れ、最新版が公開されていないか確認してください。\
 最新のアプリケーションは、このページの右側の ***Release*** からダウンロードできます。\
-<img width="373" height="728" alt="スクリーンショット 2025-09-29 20 08 55" src="https://github.com/user-attachments/assets/a19dce28-441f-4512-bbd5-1f2ca4c0ce48" />
+<img width="683" height="466" alt="スクリーンショット 2025-09-29 20 13 48" src="https://github.com/user-attachments/assets/cefe42c5-9c5a-4622-9b9c-cd65e4583b4b" />
 
 # 動作環境
 - 対応OS：macOS 13.5以上
