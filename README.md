@@ -10,7 +10,7 @@
 最新のアプリケーションは、このページの右側の ***Release*** からもダウンロードできます。
 
 
-<img width="683" height="466" alt="スクリーンショット 2025-09-29 20 13 48" src="https://github.com/user-attachments/assets/cefe42c5-9c5a-4622-9b9c-cd65e4583b4b" />
+<img width="683" height="466" alt="image" src="images/100.png" />
 
 
 # 動作環境
@@ -32,7 +32,8 @@
 - 郡/市区町村：市区町村名、番地まで記入してください
 - 以降の住所：建物名、あるいは部屋番号だけ(例：-105)
 
-<img width="685" height="836" alt="image" src="https://github.com/user-attachments/assets/9293dd38-b19d-4ae8-a69d-f1238c613fc4" />
+<img width="685" height="836" alt="image" src="images/200.png" />
+
 
 # 印刷できる宛名
 連絡先のリストが宛名だけ職人のウィンドウ左側に表示されます。\
@@ -56,8 +57,10 @@
 その際、宛名印刷に適さないと思われるサイズまで小さくなった場合は、都道府県を省略します。
 ## 位置調整を表示
 プリンタによっては郵便番号枠に対して数字がズレることがあります。\
-その際は位置調整をして、実際のハガキに合わせ込んでください。\
-<img width="312" height="693" alt="スクリーンショット 2025-09-29 20 00 00" src="https://github.com/user-attachments/assets/ef826ada-915d-4afd-adc8-33b7730aa811" />
+その際は位置調整をして、実際のハガキに合わせ込んでください。
+
+<img width="312" height="693" alt="image" src="images/300.png" />
+
 ## ハガキデザインを印刷する(調整用)
 試し印刷などでハガキデザインが欲しい時に使ってください。
 # 印刷する
@@ -67,9 +70,9 @@
 # ご意見、ご要望をお寄せください
 このページの上にある「Issue」より、メッセージをお送りください。
 
-<img width="743" height="586" alt="スクリーンショット 2025-10-12 21 57 20" src="https://github.com/user-attachments/assets/9084abd8-707f-4043-8d84-53ee1722a27e" />
+<img width="743" height="586" alt="image" src="images/400.png" />
+
 
 「New Issue」をクリックして、タイトル、メッセージを入力します。
 
-<img width="743" height="586" alt="スクリーンショット 2025-10-12 21 59 56" src="https://github.com/user-attachments/assets/514325d4-a508-46bd-a7bb-539299a7268a" />
-
+<img width="743" height="586" alt="image" src="images/500.png" />
