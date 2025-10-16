@@ -10,7 +10,7 @@
 最新のアプリケーションは、このページの右側の ***Release*** からもダウンロードできます。
 
 
-<img width="683" height="466" alt="image" src="images/100.png" />
+<img width="546" height="372" alt="image" src="images/100.png" />
 
 
 # 動作環境
@@ -59,7 +59,7 @@
 プリンタによっては郵便番号枠に対して数字がズレることがあります。\
 その際は位置調整をして、実際のハガキに合わせ込んでください。
 
-<img width="312" height="693" alt="image" src="images/300.png" />
+<img width="249" height="554" alt="image" src="images/300.png" />
 
 ## ハガキデザインを印刷する(調整用)
 試し印刷などでハガキデザインが欲しい時に使ってください。
@@ -70,9 +70,9 @@
 # ご意見、ご要望をお寄せください
 このページの上にある「Issue」より、メッセージをお送りください。
 
-<img width="743" height="586" alt="image" src="images/400.png" />
+<img width="475" height="374" alt="image" src="images/400.png" />
 
 
 「New Issue」をクリックして、タイトル、メッセージを入力します。
 
-<img width="743" height="586" alt="image" src="images/500.png" />
+<img width="475" height="374" alt="image" src="images/500.png" />
