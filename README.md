@@ -9,9 +9,9 @@
 
 最新のアプリケーションは、このページの右側の ***Release*** からもダウンロードできます。
 
-
-<img width="546" height="372" alt="image" src="images/100.png" />
-
+<p align="center">
+<img width="500" src="images/100.png" />
+</p>
 
 # 動作環境
 - 対応OS：macOS 13.5以上
@@ -32,7 +32,9 @@
 - 郡/市区町村：市区町村名、番地まで記入してください
 - 以降の住所：建物名、あるいは部屋番号だけ(例：-105)
 
-<img width="685" height="836" alt="image" src="images/200.png" />
+<p align="center">
+<img width="500" src="images/200.png" />
+</p>
 
 
 # 印刷できる宛名
@@ -59,7 +61,9 @@
 プリンタによっては郵便番号枠に対して数字がズレることがあります。\
 その際は位置調整をして、実際のハガキに合わせ込んでください。
 
-<img width="249" height="554" alt="image" src="images/300.png" />
+<p align="center">
+<img width="250" src="images/300.png" />
+</p>
 
 ## ハガキデザインを印刷する(調整用)
 試し印刷などでハガキデザインが欲しい時に使ってください。
@@ -83,9 +87,12 @@
 # ご意見、ご要望をお寄せください
 このページの上にある「Issue」より、メッセージをお送りください。
 
-<img width="475" height="374" alt="image" src="images/400.png" />
-
+<p align="center">
+<img width="500" src="images/400.png" />
+</p>
 
 「New Issue」をクリックして、タイトル、メッセージを入力します。
 
-<img width="475" height="374" alt="image" src="images/500.png" />
+<p align="center">
+<img width="500" src="images/500.png" />
+</p>
